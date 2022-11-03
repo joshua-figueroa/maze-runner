@@ -1,1 +1,1 @@
-web: ./gradlew clean && ./gradlew build && java -jar build/libs/maze-runner-0.0.1-SNAPSHOT.jar
+web: ./gradlew clean && ./gradlew build && java -Dserver.port=$PORT -jar build/libs/maze-runner-0.0.1-SNAPSHOT.jar

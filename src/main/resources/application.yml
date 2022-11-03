@@ -4,6 +4,7 @@ server:
         context-path: /
         session: 
             timeout: 30m
+    port: 8080
 
 spring:
     profiles:
