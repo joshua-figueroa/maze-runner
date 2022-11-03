@@ -1,0 +1,30 @@
+Backend:
+- Java Spring
+    Login Controller
+        - send crescendo email
+        - receive OTP
+        - set cookie (no expiry)
+    User Controller
+        - add user
+        - set email
+    Room Controller
+        - create unique room
+        - websockets to broadcast boards
+    Game Controller
+        - view all scores
+        - view other boards
+
+
+Frontend:
+- React TypeScript
+    Login Page
+        - email field
+        - otp field
+        - name field
+    Room ID (Game) Page    
+        - maze runner using phaser
+        - add toggle to view other boards
+    Admin Page
+        - view other boards
+        - live ranking
+    

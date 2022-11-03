@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5c683f7f.css",
+    "main.js": "/static/js/main.a47cd40e.js",
+    "static/media/horror.wav": "/static/media/horror.6b73504e751aaf306266.wav",
+    "static/media/easy.wav": "/static/media/easy.383e8052ccea7c25f200.wav",
+    "static/media/space.wav": "/static/media/space.5af977813dc4c8f65fd2.wav",
+    "static/media/casino.wav": "/static/media/casino.a6251be4db4ddd9c584d.wav",
+    "static/media/final.wav": "/static/media/final.c8c2cf400ea8cc6858d4.wav",
+    "static/media/complete.wav": "/static/media/complete.ce2d94cfc6b215916553.wav",
+    "static/media/move.wav": "/static/media/move.e8c6c391d7f99ba65c9f.wav",
+    "static/media/hit.wav": "/static/media/hit.63f0b12414f605e55c2b.wav",
+    "static/media/pixel-webfont.ttf": "/static/media/pixel-webfont.2ebf1a35a67b4271603e.ttf",
+    "static/media/floor.png": "/static/media/floor.685143332fe9029016dd.png",
+    "static/media/tap.wav": "/static/media/tap.03ee3acc87b2c1bf83e9.wav",
+    "static/media/pixel-webfont.woff": "/static/media/pixel-webfont.eb2a626dfac7d2ad2959.woff",
+    "static/media/noun-retro-gaming-4669527.png": "/static/media/noun-retro-gaming-4669527.f02558028e9617cab6e5.png",
+    "static/media/pixel-webfont.woff2": "/static/media/pixel-webfont.fb49f43f0231a4e74a90.woff2",
+    "static/media/copy.png": "/static/media/copy.0db86a191abc644fe5e8.png",
+    "index.html": "/index.html",
+    "main.5c683f7f.css.map": "/static/css/main.5c683f7f.css.map",
+    "main.a47cd40e.js.map": "/static/js/main.a47cd40e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5c683f7f.css",
+    "static/js/main.a47cd40e.js"
+  ]
+}
