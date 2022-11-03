@@ -33,12 +33,3 @@ dependencies {
 tasks.named('test') {
 	useJUnitPlatform()
 }
-
-jar {
-	manifest {
-		attributes(
-			'Class-Path': configurations.runtimeClasspath.files.collect { it.getName() }.join(' '),
-			'MazeRunnerApplication-Class': 'com.personal.mazerunner.MazeRunnerApplication'
-		)
-	}
-}
