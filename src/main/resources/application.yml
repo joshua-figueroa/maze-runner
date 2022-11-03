@@ -1,21 +1,5 @@
-server: 
-    servlet:
-        register-default-context: true
-        context-path: /
-        session: 
-            timeout: 30m
-    port: 8080
-
-spring:
-    data:
-        rest:
-            base-path: /
-
-management:
-    endpoints:
-        web:
-            exposure:
-                include: info, health, mappings
+server:
+    port: ${PORT}
 
 logging:
     level:
