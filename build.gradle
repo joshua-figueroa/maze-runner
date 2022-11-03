@@ -27,6 +27,8 @@ tasks.named('test') {
 	useJUnitPlatform()
 }
 
+tasks.withType(Copy).all { duplicatesStrategy 'exclude' }
+
 jar {
 	manifest {
 		attributes = [
