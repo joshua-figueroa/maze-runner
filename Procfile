@@ -1,1 +1,1 @@
-web: ./gradlew clean && ./gradlew build && java -Dserver.port=$PORT -jar build/libs/maze-runner-0.0.1-SNAPSHOT.jar
+web: java $JAVA_OPTS -jar target/maze-runner-0.0.1-SNAPSHOT.jar -Dserver.port=$PORT $JAR_OPTS
