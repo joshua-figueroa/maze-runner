@@ -4,6 +4,7 @@ plugins {
 	id 'java'
 }
 
+
 group = 'com.personal'
 version = '0.0.1-SNAPSHOT'
 sourceCompatibility = '17'
@@ -32,7 +33,7 @@ jar {
 	manifest {
 		attributes(
 			'Class-Path': configurations.runtimeClasspath.files.collect { it.getName() }.join(' '),
-			'Main-Class': 'com.personal.mazerunner.MazeRunnerApplication'
+			'MazeRunnerApplication-Class': 'com.personal.mazerunner.MazeRunnerApplication'
 		)
 	}
 }
