@@ -23,10 +23,6 @@ logging:
         com.personal: DEBUG
         org.springframework: DEBUG
 
-java:
-    runtime:
-        version: 17
-
 jwt:
     secret: javainuse
 
