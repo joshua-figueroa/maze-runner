@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.5c683f7f.css",
-    "main.js": "/static/js/main.0aaff4a1.js",
+    "main.js": "/static/js/main.d8dd24f4.js",
     "static/media/horror.wav": "/static/media/horror.2ce553821ddf891e375e.wav",
     "static/media/casino.wav": "/static/media/casino.a6251be4db4ddd9c584d.wav",
     "static/media/final.wav": "/static/media/final.c8c2cf400ea8cc6858d4.wav",
@@ -14,10 +14,10 @@
     "static/media/copy.png": "/static/media/copy.0db86a191abc644fe5e8.png",
     "index.html": "/index.html",
     "main.5c683f7f.css.map": "/static/css/main.5c683f7f.css.map",
-    "main.0aaff4a1.js.map": "/static/js/main.0aaff4a1.js.map"
+    "main.d8dd24f4.js.map": "/static/js/main.d8dd24f4.js.map"
   },
   "entrypoints": [
     "static/css/main.5c683f7f.css",
-    "static/js/main.0aaff4a1.js"
+    "static/js/main.d8dd24f4.js"
   ]
 }
