@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/static/css/main.e8b304ed.css",
-    "main.js": "/static/js/main.d8dd24f4.js",
+    "main.js": "/static/js/main.0f49385a.js",
     "static/media/horror.wav": "/static/media/horror.2ce553821ddf891e375e.wav",
-    "static/media/casino.wav": "/static/media/casino.a6251be4db4ddd9c584d.wav",
     "static/media/final.wav": "/static/media/final.c8c2cf400ea8cc6858d4.wav",
     "static/media/complete.wav": "/static/media/complete.ce2d94cfc6b215916553.wav",
-    "static/media/move.wav": "/static/media/move.e8c6c391d7f99ba65c9f.wav",
+    "static/media/casino.wav": "/static/media/casino.b0b27b77ff3e3830d0e0.wav",
     "static/media/pixel-webfont.ttf": "/static/media/pixel-webfont.2ebf1a35a67b4271603e.ttf",
     "static/media/floor.png": "/static/media/floor.685143332fe9029016dd.png",
+    "static/media/move.wav": "/static/media/move.6ef78bc4ce629cb83fd1.wav",
     "static/media/pixel-webfont.woff": "/static/media/pixel-webfont.eb2a626dfac7d2ad2959.woff",
     "static/media/pixel-webfont.woff2": "/static/media/pixel-webfont.fb49f43f0231a4e74a90.woff2",
     "static/media/copy.png": "/static/media/copy.0db86a191abc644fe5e8.png",
     "index.html": "/index.html",
     "main.e8b304ed.css.map": "/static/css/main.e8b304ed.css.map",
-    "main.d8dd24f4.js.map": "/static/js/main.d8dd24f4.js.map"
+    "main.0f49385a.js.map": "/static/js/main.0f49385a.js.map"
   },
   "entrypoints": [
     "static/css/main.e8b304ed.css",
-    "static/js/main.d8dd24f4.js"
+    "static/js/main.0f49385a.js"
   ]
 }
