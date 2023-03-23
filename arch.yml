@@ -1,12 +1,7 @@
 Backend:
 - Java Spring
-    Login Controller
-        - send crescendo email
-        - receive OTP
-        - set cookie (no expiry)
     User Controller
         - add user
-        - set email
     Room Controller
         - create unique room
         - websockets to broadcast boards
